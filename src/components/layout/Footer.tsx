@@ -129,7 +129,7 @@ const Footer: React.FC = () => {
         {/* Copyright */}
         <div className="border-t border-[#E8E1D5] pt-8 text-center">
           <p className="font-serif text-[#3A3A3A]">
-            &copy; {new Date().getFullYear()} CHOP NOID. All rights reserved.
+            &copy; {new Date().getFullYear()} SHOP NOID. All rights reserved.
           </p>
         </div>
       </div>
